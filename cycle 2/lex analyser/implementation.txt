@@ -1,0 +1,3 @@
+lex lex_analyser.l
+gcc lex.yy.c
+./a.out input.c

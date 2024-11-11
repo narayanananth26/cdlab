@@ -47,4 +47,10 @@ void main()
  printf("Total number of words :%d\n",word_count);
  
 }
+
+/*
+lex nameprefix.l
+gcc lex.yy.c
+./a.out
+*/
     
